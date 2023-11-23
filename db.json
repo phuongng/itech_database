@@ -512,24 +512,8 @@
         "unit_price": 1199.99,
         "retail_price": 1299.99,
         "in_stock_quantity": 18
-      },
-      {
-        "product_id": "IP1015",
-        "product_name": "iPhone XS",
-        "product_type": "Smartphone",
-        "unit_price": 699.99,
-        "retail_price": 899.99,
-        "in_stock_quantity": 28
-      },
-
-      {
-        "product_id": "IP1017",
-        "product_name": "iPad Air 4",
-        "product_type": "Tablet",
-        "unit_price": 499.99,
-        "retail_price": 599.99,
-        "in_stock_quantity": 12
       }
+     
     
         
 ]
