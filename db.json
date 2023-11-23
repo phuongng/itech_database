@@ -496,22 +496,6 @@
         "retail_price": 2299.99,
         "in_stock_quantity": 10
       },
-      {
-        "product_id": "MB1006",
-        "product_name": "MacBook",
-        "product_type": "Laptop",
-        "unit_price": 1299.99,
-        "retail_price": 1499.99,
-        "in_stock_quantity": 18
-      },
-      {
-        "product_id": "AC1004",
-        "product_name": "Apple Pencil",
-        "product_type": "Stylus",
-        "unit_price": 99.99,
-        "retail_price": 129.99,
-        "in_stock_quantity": 25
-      },
 
       {
         "product_id": "AC1005",
@@ -521,22 +505,8 @@
         "retail_price": 69.99,
         "in_stock_quantity": 30
     },
-    {
-        "product_id": "AC1006",
-        "product_name": "Thunderbolt Cable",
-        "product_type": "Cable",
-        "unit_price": 29.99,
-        "retail_price": 39.99,
-        "in_stock_quantity": 35
-      },
-      {
-        "product_id": "AC1006",
-        "product_name": "Thunderbolt Cable",
-        "product_type": "Cable",
-        "unit_price": 29.99,
-        "retail_price": 39.99,
-        "in_stock_quantity": 35
-      },
+   
+  
       {
         "product_id": "IP1013",
         "product_name": "iPhone 15 Plus",
