@@ -448,38 +448,8 @@
         "retail_price": 1099.99,
         "in_stock_quantity": 18
       },
-      {
-        "product_id": "IP1009",
-        "product_name": "iPhone 11",
-        "product_type": "Smartphone",
-        "unit_price": 599.99,
-        "retail_price": 799.99,
-        "in_stock_quantity": 28
-      },
-      {
-        "product_id": "IP1010",
-        "product_name": "iPad",
-        "product_type": "Tablet",
-        "unit_price": 329.99,
-        "retail_price": 429.99,
-        "in_stock_quantity": 32
-      },
-      {
-        "product_id": "IP1011",
-        "product_name": "iPad Pro 12.9-inch",
-        "product_type": "Tablet",
-        "unit_price": 1099.99,
-        "retail_price": 1299.99,
-        "in_stock_quantity": 12
-      },
-      {
-        "product_id": "IP1012",
-        "product_name": "iPad Pro 11-inch",
-        "product_type": "Tablet",
-        "unit_price": 799.99,
-        "retail_price": 999.99,
-        "in_stock_quantity": 20
-      },
+
+  
       {
         "product_id": "MB1004",
         "product_name": "MacBook Pro 14-inch",
@@ -488,14 +458,7 @@
         "retail_price": 1999.99,
         "in_stock_quantity": 15
       },
-      {
-        "product_id": "MB1005",
-        "product_name": "MacBook Pro 15-inch",
-        "product_type": "Laptop",
-        "unit_price": 2099.99,
-        "retail_price": 2299.99,
-        "in_stock_quantity": 10
-      }, 
+
   
       {
         "product_id": "IP1013",
