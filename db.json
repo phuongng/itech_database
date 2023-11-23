@@ -366,14 +366,7 @@
         "retail_price": 999.99,
         "in_stock_quantity": 25
       },
-      {
-        "product_id": "IP1006",
-        "product_name": "iPad Mini",
-        "product_type": "Tablet",
-        "unit_price": 349.99,
-        "retail_price": 449.99,
-        "in_stock_quantity": 20
-      },
+
       {
         "product_id": "MB1001",
         "product_name": "MacBook Air",
@@ -415,36 +408,8 @@
         "unit_price": 129.99,
         "retail_price": 149.99,
         "in_stock_quantity": 25
-      },
-
-      {
-        "product_id": "MB1004",
-        "product_name": "MacBook Pro 14-inch",
-        "product_type": "Laptop",
-        "unit_price": 1799.99,
-        "retail_price": 1999.99,
-        "in_stock_quantity": 15
-      },
-
-  
-      {
-        "product_id": "IP1013",
-        "product_name": "iPhone 15 Plus",
-        "product_type": "Smartphone",
-        "unit_price": 899.99,
-        "retail_price": 999.99,
-        "in_stock_quantity": 22
-      },
-      {
-        "product_id": "IP1014",
-        "product_name": "iPhone 15 Pro Max",
-        "product_type": "Smartphone",
-        "unit_price": 1199.99,
-        "retail_price": 1299.99,
-        "in_stock_quantity": 18
       }
-     
-    
+
         
 ]
 
