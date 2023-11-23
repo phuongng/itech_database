@@ -220,7 +220,102 @@
       "order_total": 130.75,
       "tracking_id": "TRK901234567"
     }
-  ]
+  ],
+  "customer":[
+    {
+      "customer_id": "C001",
+      "customer_name": "John Doe",
+      "phone_number": "+1-555-123-4567",
+      "address": "123 Main St, Cityville, USA",
+      "email": "john.doe@email.com",
+      "dob": "1980-05-15"
+    },
+    {
+      "customer_id": "C002",
+      "customer_name": "Jane Smith",
+      "phone_number": "+1-555-987-6543",
+      "address": "456 Oak St, Townsville, USA",
+      "email": "jane.smith@email.com",
+      "dob": "1992-08-22"
+    },
+
+    {
+      "customer_id": "C003",
+      "customer_name": "Alex Johnson",
+      "phone_number": "+1-555-876-5432",
+      "address": "789 Pine St, Villagetown, USA",
+      "email": "alex.johnson@email.com",
+      "dob": "1975-12-10"
+    },
+    {
+      "customer_id": "C004",
+      "customer_name": "Emily Davis",
+      "phone_number": "+1-555-234-5678",
+      "address": "101 Cedar St, Hamletville, USA",
+      "email": "emily.davis@email.com",
+      "dob": "1988-03-28"
+    },
+    {
+      "customer_id": "C005",
+      "customer_name": "Robert White",
+      "phone_number": "+1-555-345-6789",
+      "address": "202 Birch St, Countryside, USA",
+      "email": "robert.white@email.com",
+      "dob": "1995-06-18"
+    },
+
+    {
+  "customer_id": "C006",
+  "customer_name": "Megan Brown",
+  "phone_number": "+1-555-654-7890",
+  "address": "303 Elm St, Suburbia, USA",
+  "email": "megan.brown@email.com",
+  "dob": "1982-09-05"
+},
+
+{
+  "customer_id": "C007",
+  "customer_name": "David Taylor",
+  "phone_number": "+1-555-765-8901",
+  "address": "404 Maple St, Riverside, USA",
+  "email": "david.taylor@email.com",
+  "dob": "1990-11-14"
+},
+{
+  "customer_id": "C008",
+  "customer_name": "Olivia Miller",
+  "phone_number": "+1-555-876-9012",
+  "address": "505 Willow St, Lakeside, USA",
+  "email": "olivia.miller@email.com",
+  "dob": "1987-04-02"
+},
+{
+  "customer_id": "C009",
+  "customer_name": "William Wilson",
+  "phone_number": "+1-555-987-0123",
+  "address": "606 Poplar St, Mountainside, USA",
+  "email": "william.wilson@email.com",
+  "dob": "1978-07-23"
+},
+{
+  "customer_id": "C009",
+  "customer_name": "William Wilson",
+  "phone_number": "+1-555-987-0123",
+  "address": "606 Poplar St, Mountainside, USA",
+  "email": "william.wilson@email.com",
+  "dob": "1978-07-23"
+},
+{
+  "customer_id": "C010",
+  "customer_name": "Sophia Lee",
+  "phone_number": "+1-555-012-3456",
+  "address": "707 Redwood St, Hilltop, USA",
+  "email": "sophia.lee@email.com",
+  "dob": "1998-01-30"
+}
+
+ 
+  ],
 
 
 }
