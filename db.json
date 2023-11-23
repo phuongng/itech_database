@@ -298,14 +298,6 @@
   "dob": "1978-07-23"
 },
 {
-  "customer_id": "C009",
-  "customer_name": "William Wilson",
-  "phone_number": "+1-555-987-0123",
-  "address": "606 Poplar St, Mountainside, USA",
-  "email": "william.wilson@email.com",
-  "dob": "1978-07-23"
-},
-{
   "customer_id": "C010",
   "customer_name": "Sophia Lee",
   "phone_number": "+1-555-012-3456",
@@ -313,9 +305,148 @@
   "email": "sophia.lee@email.com",
   "dob": "1998-01-30"
 }
-
  
-  ]
+  ],
+
+  "inventory":[
+    {
+        "product_id": "IP1001",
+        "product_name": "iPhone 15",
+        "product_type": "Smartphone",
+        "unit_price": 799.99,
+        "retail_price": 999.99,
+        "in_stock_quantity": 100
+      },
+      {
+        "product_id": "IP1002",
+        "product_name": "iPhone 15 Pro",
+        "product_type": "Smartphone",
+        "unit_price": 999.99,
+        "retail_price": 1199.99,
+        "in_stock_quantity": 90
+      },
+
+    {
+        "product_id": "IP1003",
+        "product_name": "iPhone 14",
+        "product_type": "Smartphone",
+        "unit_price": 699.99,
+        "retail_price": 899.99,
+        "in_stock_quantity": 50
+      },
+      {
+        "product_id": "IP1004",
+        "product_name": "iPhone 14 Pro",
+        "product_type": "Smartphone",
+        "unit_price": 799.99,
+        "retail_price": 999.99,
+        "in_stock_quantity": 40
+      },
+      {
+        "product_id": "IP1005",
+        "product_name": "iPhone SE",
+        "product_type": "Smartphone",
+        "unit_price": 399.99,
+        "retail_price": 499.99,
+        "in_stock_quantity": 30
+      },
+      {
+        "product_id": "IP1004",
+        "product_name": "iPad Air",
+        "product_type": "Tablet",
+        "unit_price": 499.99,
+        "retail_price": 599.99,
+        "in_stock_quantity": 35
+      },
+      {
+        "product_id": "IP1005",
+        "product_name": "iPad Pro",
+        "product_type": "Tablet",
+        "unit_price": 799.99,
+        "retail_price": 999.99,
+        "in_stock_quantity": 25
+      },
+      {
+        "product_id": "IP1006",
+        "product_name": "iPad Mini",
+        "product_type": "Tablet",
+        "unit_price": 349.99,
+        "retail_price": 449.99,
+        "in_stock_quantity": 20
+      },
+      {
+        "product_id": "MB1001",
+        "product_name": "MacBook Air",
+        "product_type": "Laptop",
+        "unit_price": 999.99,
+        "retail_price": 1199.99,
+        "in_stock_quantity": 15
+      },
+      {
+        "product_id": "MB1002",
+        "product_name": "MacBook Pro 13-inch",
+        "product_type": "Laptop",
+        "unit_price": 1299.99,
+        "retail_price": 1499.99,
+        "in_stock_quantity": 10
+      },
+      {
+        "product_id": "MB1003",
+        "product_name": "MacBook Pro 16-inch",
+        "product_type": "Laptop",
+        "unit_price": 2399.99,
+        "retail_price": 2599.99,
+        "in_stock_quantity": 8
+      },
+  
+
+      {
+        "product_id": "AC1002",
+        "product_name": "Magic Mouse 2",
+        "product_type": "Accessories",
+        "unit_price": 79.99,
+        "retail_price": 99.99,
+        "in_stock_quantity": 30
+      },
+      {
+        "product_id": "AC1003",
+        "product_name": "Magic Keyboard",
+        "product_type": "Accessories",
+        "unit_price": 129.99,
+        "retail_price": 149.99,
+        "in_stock_quantity": 25
+      },
+
+      {
+        "product_id": "MB1004",
+        "product_name": "MacBook Pro 14-inch",
+        "product_type": "Laptop",
+        "unit_price": 1799.99,
+        "retail_price": 1999.99,
+        "in_stock_quantity": 15
+      },
+
+  
+      {
+        "product_id": "IP1013",
+        "product_name": "iPhone 15 Plus",
+        "product_type": "Smartphone",
+        "unit_price": 899.99,
+        "retail_price": 999.99,
+        "in_stock_quantity": 22
+      },
+      {
+        "product_id": "IP1014",
+        "product_name": "iPhone 15 Pro Max",
+        "product_type": "Smartphone",
+        "unit_price": 1199.99,
+        "retail_price": 1299.99,
+        "in_stock_quantity": 18
+      }
+     
+    
+        
+]
 
 
 }
