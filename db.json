@@ -326,14 +326,6 @@
         "in_stock_quantity": 90
       },
 
-    {
-        "product_id": "IP1003",
-        "product_name": "iPhone 14",
-        "product_type": "Smartphone",
-        "unit_price": 699.99,
-        "retail_price": 899.99,
-        "in_stock_quantity": 50
-      },
       {
         "product_id": "IP1004",
         "product_name": "iPhone 14 Pro",
@@ -342,14 +334,7 @@
         "retail_price": 999.99,
         "in_stock_quantity": 40
       },
-      {
-        "product_id": "IP1005",
-        "product_name": "iPhone SE",
-        "product_type": "Smartphone",
-        "unit_price": 399.99,
-        "retail_price": 499.99,
-        "in_stock_quantity": 30
-      },
+  
       {
         "product_id": "IP1004",
         "product_name": "iPad Air",
