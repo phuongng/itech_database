@@ -521,14 +521,6 @@
         "retail_price": 899.99,
         "in_stock_quantity": 28
       },
-      {
-        "product_id": "IP1016",
-        "product_name": "iPad 10.2-inch",
-        "product_type": "Tablet",
-        "unit_price": 329.99,
-        "retail_price": 429.99,
-        "in_stock_quantity": 32
-      },
 
       {
         "product_id": "IP1017",
@@ -538,14 +530,7 @@
         "retail_price": 599.99,
         "in_stock_quantity": 12
       },
-      {
-        "product_id": "IP1018",
-        "product_name": "iPad Mini 5",
-        "product_type": "Tablet",
-        "unit_price": 399.99,
-        "retail_price": 499.99,
-        "in_stock_quantity": 20
-      }
+    
         
 ]
 
