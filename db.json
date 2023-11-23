@@ -495,17 +495,7 @@
         "unit_price": 2099.99,
         "retail_price": 2299.99,
         "in_stock_quantity": 10
-      },
-
-      {
-        "product_id": "AC1005",
-        "product_name": "Smart Folio",
-        "product_type": "Case",
-        "unit_price": 49.99,
-        "retail_price": 69.99,
-        "in_stock_quantity": 30
-    },
-   
+      }, 
   
       {
         "product_id": "IP1013",
